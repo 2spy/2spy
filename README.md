@@ -8,7 +8,7 @@
 ### <p align="center">🧠 &nbsp;Moi</p>
 <br>
 <p align="center">
-  J'ai 18 ans, je suis une licence de mathématique et d'informatique ! 🙂
+  J'ai 18 ans, je suis en licence de mathématique et d'informatique ! 🙂
   <br>
   <br>
   <br>
