@@ -12,7 +12,7 @@
   <br>
   <br>
   <br>
-  <img src="https://images-ext-1.discordapp.net/external/87Cv5-_gdgbTfmMOwBFi-sRRwP3iQGpLqrwj3_RRuok/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/755734583005282334/a68d636e45ed28fb5f69343373c39824.png">
+  <img src="https://cdn.discordapp.com/avatars/755734583005282334/a_5790b4eadda0fd73e2bfaa14dd1e13b7.gif?size=1024">
   <br>
   <br>
   <br>
