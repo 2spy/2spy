@@ -21,7 +21,7 @@
   <br>
   <a href="https://www.youtube.com/c/2spyyy">📺 Ma chaîne YouTube 📺</a>
   <br>
-  <a href="https://discord.gg/hof/">💬 Retrouve moi sur ce discord | https://discord.gg/wRuMtXdEXB 💬</a>
+  <a href="https://discord.gg/wRuMtXdEXB">💬 Retrouve moi sur ce discord | https://discord.gg/wRuMtXdEXB 💬</a>
   <br>
   <a href="https://discord.com/api/oauth2/authorize?client_id=828342022091964507&permissions=4294967287&scope=bot">☢ Mon Bot Discord ☢</a>
   <br>
