@@ -12,7 +12,7 @@
   <br>
   <br>
   <br>
-  <img src="https://cdn.discordapp.com/avatars/755734583005282334/a_5790b4eadda0fd73e2bfaa14dd1e13b7.gif?size=1024">
+  <img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-6.gif">
   <br>
   <br>
   <br>
