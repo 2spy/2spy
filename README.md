@@ -31,9 +31,9 @@
 ### <p align="center">🏆 &nbsp;Mes Compétences</p>
 <br>
 <p align="center">
-  🐍 J'apprends le Python depuis 8 mois 🐍
+  🐍 Python 🐍
   <br>
-  💠 J'apprends le Développement Web, pour créer ma dashboard pour le bot 💠
+  💠 HTML / Css 💠
   <br>
   <br>
   <br>
