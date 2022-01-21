@@ -1,7 +1,7 @@
 -----
 
 <p align = "center">
-<img src="https://s1.qwant.com/thumbr/0x0/8/9/55026ca745afc31cf5d84cfcc777715d91988f8d02e85c4297836d9b92fd99/mob-psycho-gif-6.gif?u=http%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fmob-psycho-gif-6.gif&q=0&b=1&p=0&a=1">
+<img src="https://i.imgur.com/i3r2p1b.gif?noredirect">
 </p>
 
 -----
