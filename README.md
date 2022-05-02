@@ -1,77 +1,68 @@
------
+<h1 align="center">Salut 👋, Bienvenue sur mon github !</h1>
+<h3 align="center">Etudiant en licence de Math et Informatique 🌟.</h3>
 
-<p align = "center">
-<img src="https://i.imgur.com/i3r2p1b.gif?noredirect">
-</p>
-
------
-### <p align="center">🧠 &nbsp;Moi</p>
-<br>
-<p align="center">
-  J'ai 18 ans, je suis en licence d'informatique ! 🙂
-  <br>
-  <br>
-  <br>
-  <img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-6.gif">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <a href="https://www.youtube.com/c/2spyyy">📺 Ma chaîne YouTube 📺</a>
-  <br>
-  <a href="https://discord.gg/wRuMtXdEXB">💬 Retrouve moi sur ce discord | https://discord.gg/wRuMtXdEXB 💬</a>
-  <br>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=828342022091964507&permissions=4294967287&scope=bot">☢ Mon Bot Discord ☢</a>
-  <br>
-</p>
-
------
-### <p align="center">🏆 &nbsp;Mes Compétences</p>
-<br>
-<p align="center">
-  🐍 Python 🐍
-  <br>
-  💠 HTML / Css 💠
-  <br>
-  <br>
-  <br>
-</p>
-
------
-### <p align="center">📈 &nbsp;Mes Objectifs</p>
-<br>
-<p align="center">
-  🐍 Maitrîser le Python 🐍
-  <br>
-  💠 Maitrîser le Développement Web (html/css) 💠
-  <br>
-  🔐 Progresser en Cybersécurité 🔐
-  <br>
-  🎃 Apprendre le JavaScript / HTML / Css / C++ / C# 🎃
-  <br>
-</p>
-
-
------
-### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
-<br>
-<p align="center">
-<a href="https://github.com/2spy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=2spy&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=2spy&layout=compact&langs_count=8&theme=react&locale=fr"/>
-</a>
-  
-</p>
-
------
-
-### <p align="center">👀 &nbsp;Visiteurs</p>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/2spy/count.svg" />
-</p>
 <br>
 
------
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=2spy&label=Profile%20views&color=0e75b6&style=flat"
+    alt="2spy"/> 
+  </p>
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 J'apprends actuellement le Web3
+
+- 📫 Me contacter : deuxspyyy@gmail.com
+
+- ⚡ Discord : https://discord.gg/spyy
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://instagram.com/deuxspyyy target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="2spy" height="30" width="40" /></a>
+ <a href="https://twitter.com/deuxspyy" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="2spy" height="30" width="40" /></a>
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> </p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="2spy" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2spy&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+[2spy](https://github.com/2spy)
