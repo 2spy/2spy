@@ -1,26 +1,24 @@
-<h1 align="center">Salut 👋, Bienvenue sur mon github !</h1>
-<h3 align="center">Etudiant en licence Informatique 🌟.</h3>
+<h1 align="center">👋 Bienvenue sur mon GitHub !</h1>
+<h3 align="center">Étudiant en licence Informatique 🌟 | Passionné par le développement et les nouvelles technologies.</h3>
 
-<br>
+---
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=2spy&label=Profile%20views&color=0e75b6&style=flat"
-    alt="2spy"/> 
-  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2spy&label=Visiteurs&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-<br>
+---
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300"/>
 
+### 💡 À propos de moi :
+- 🎓 Étudiant en licence d'informatique, curieux et motivé pour apprendre.
+- 💻 Passionné par le développement web, la programmation, et la résolution de problèmes.
+- 📫 **Contact** : deuxspyyy@gmail.com
 
+---
 
-- 📫 Me contacter : deuxspyyy@gmail.com
-
-
-<br>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Compétences techniques :
 <p align="left">
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -47,24 +45,27 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
   </a>
 </p>
-<br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="2spy" 
-    bg_color=#808080/></p>
+---
 
-<br>
+### 📊 Statistiques GitHub :
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Langages utilisés"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="Statistiques GitHub"/>
+</p>
 
-<br>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2spy&theme=dark&background=0d1117" alt="Streak Stats"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2spy&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-[2spy](https://github.com/2spy)
+### 📱 Restez connecté :
+<p align="left">
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:deuxspyyy@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
+</p>
