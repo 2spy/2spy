@@ -35,7 +35,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="python"
       width="40" height="40" /> </a>
       <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://www.seekpng.com/png/full/399-3990193_building-a-go-web-app-from-scratch-to.png" alt="golang"
+      src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" alt="golang"
       width="40" height="40" /> </a></p>
 <br>
 
