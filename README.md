@@ -50,7 +50,7 @@
 
 ### 📊 Statistiques GitHub :
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Langages utilisés"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Répartition des langages"/>
 </p>
 
 <p align="center">
@@ -59,6 +59,10 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2spy&theme=dark&background=0d1117" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2spy&theme=github_dark" alt="Commits par jour"/>
 </p>
 
 ---
