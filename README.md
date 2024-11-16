@@ -49,20 +49,23 @@
 ---
 
 ### 📊 Statistiques GitHub :
+#### 📅 Contributions sur l'année :
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Répartition des langages"/>
+  <img src="https://github.com/2spy/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="Contributions Snake"/>
 </p>
 
+#### 🏆 Répartition des langages (inclut dépôts privés) :
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="Statistiques GitHub"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&count_private=true" alt="Répartition des langages"/>
+</p>
+
+#### 📈 Autres statistiques :
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&count_private=true" alt="Statistiques GitHub"/>
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2spy&theme=dark&background=0d1117" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2spy&theme=github_dark" alt="Commits par jour"/>
 </p>
 
 ---
