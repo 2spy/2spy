@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Bienvenue sur mon github !</h1>
-<h3 align="center">Etudiant en licence de Math et Informatique 🌟.</h3>
+<h3 align="center">Etudiant en licence Informatique 🌟.</h3>
 
 <br>
 
@@ -18,18 +18,6 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/deuxspyyy target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="2spy" height="30" width="40" /></a>
- <a href="https://twitter.com/deuxspyy" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="2spy" height="30" width="40" /></a>
-
-
-</p>
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,8 +33,10 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> </p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="python"
-      width="40" height="40" /> </a> </p>
-
+      width="40" height="40" /> </a>
+      <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://www.seekpng.com/png/full/399-3990193_building-a-go-web-app-from-scratch-to.png" alt="golang"
+      width="40" height="40" /> </a></p>
 <br>
 
 <h3>Statistical Data :-</h3>
