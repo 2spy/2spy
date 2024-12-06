@@ -44,15 +44,15 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
   </a>
+  <!-- SQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" width="40" height="40"/>
+</a>
 </p>
 
 ---
 
 ### 📊 Statistiques GitHub :
-#### 📅 Contributions sur l'année :
-<p align="center">
-  <img src="https://github.com/2spy/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="Contributions Snake"/>
-</p>
 
 #### 🏆 Répartition des langages (inclut dépôts privés) :
 <p align="center">
