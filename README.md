@@ -51,6 +51,8 @@
 </p>
 
 ---
+### ⚒️ Projet précedent :
+- SpyTory http://spytory-v1.vercel.app (made by myself)
 
 ### 📊 Statistiques GitHub :
 
