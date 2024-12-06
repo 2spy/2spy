@@ -46,7 +46,7 @@
   </a>
   <!-- SQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn-icons-png.freepik.com/256/4248/4248443.png?semt=ais_hybrid" alt="MySQL" width="40" height="40"/>
 </a>
 </p>
 
