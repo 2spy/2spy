@@ -56,7 +56,7 @@
 
 ### 📊 Statistiques GitHub :
 
-#### 🏆 Répartition des langages (inclut dépôts privés) :
+#### 🏆 Répartition des langages (n'inclut pas dépôts privés) :
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&count_private=true" alt="Répartition des langages"/>
 </p>
