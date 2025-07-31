@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎓 Student Profile - Chinese Universities Admission</h1>
+  <h1>🎓 Student Profile</h1>
   
   <!-- Language Selector -->
   <p>
