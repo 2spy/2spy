@@ -1,78 +1,143 @@
-<h1 align="center">👋 Bienvenue sur mon GitHub !</h1>
-<h3 align="center">Étudiant en licence Informatique 🌟 | Passionné par le développement et les nouvelles technologies.</h3>
+<div align="center">
+  <h1>🎓 Profil Étudiant - Admission Universités Chinoises</h1>
+  
+  <!-- Sélecteur de langue -->
+  <p>
+    <a href="README.md">
+      <img src="https://img.shields.io/badge/🇫🇷-Français-0055A4?style=for-the-badge&labelColor=EF4135" alt="Français"/>
+    </a>
+    <a href="README-en.md">
+      <img src="https://img.shields.io/badge/🇺🇸-English-B22234?style=for-the-badge&labelColor=FFFFFF" alt="English"/>
+    </a>
+    <a href="README-zh.md">
+      <img src="https://img.shields.io/badge/🇨🇳-中文-DE2910?style=for-the-badge&labelColor=FFDE00" alt="中文"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2spy&label=Visiteurs&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+## 📝 À propos de moi
+
+- **Statut** : Étudiant L3 Informatique — Université de Lille (France)
+- **Langues & Tests** : TOEFL (préparation, cible ≥100) • Anglais académique • Notions de mandarin
+- **WeChat** : wxid_sikcu4vags4h12
+- **Note** : La majorité de mes contributions ne sont pas disponibles sur GitHub
 
 ---
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300"/>
+## 🎯 Objectifs
 
-### 💡 À propos de moi :
-- 🎓 Étudiant en licence d'informatique, curieux et motivé pour apprendre.
-- 💻 Passionné par le développement web, la programmation, et la résolution de problèmes.
-- 📫 **Contact** : deuxspyyy@gmail.com
+- **Admission** : Intégrer un Master Big Data / Data Science ou Intelligence Artificielle en Chine (Tsinghua, PKU, SJTU, ZJU)
+- **TOEFL** : Atteindre un score ≥100 points
+- **Compétences** : Renforcer mes bases en mathématiques et apprentissage automatique
+- **Publication** : Publier une note technique sur l'IA appliquée à la supply chain
 
 ---
 
-### 🛠️ Compétences techniques :
+## 💼 Projet professionnel majeur
+
+**Développement d'un ERP complet** pour la gestion de la production et de la distribution :
+
+- ✅ **Automatisation** des processus (stocks, commandes, retours)
+- 🌐 **Interface multilingue** (français, anglais, chinois)
+- 📦 **Livraison** en conditions réelles avec documentation complète
+- 📸 **Documentation** technique avec captures d'écran
+
+---
+
+## 🛠️ Compétences techniques
+
 <p align="left">
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://go.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
   </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://mysql.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   </a>
-  <!-- GoLang -->
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   </a>
-  <!-- Photoshop -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   </a>
-  <!-- SQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.freepik.com/256/4248/4248443.png?semt=ais_hybrid" alt="MySQL" width="40" height="40"/>
-</a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
----
-### ⚒️ Projet précedent :
-- SpyTory http://spytory-v1.vercel.app (made by myself)
-
-### 📊 Statistiques GitHub :
-
-#### 🏆 Répartition des langages (n'inclut pas dépôts privés) :
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&count_private=true" alt="Répartition des langages"/>
-</p>
-
-#### 📈 Autres statistiques :
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&count_private=true" alt="Statistiques GitHub"/>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2spy&theme=dark&background=0d1117" alt="Streak Stats"/>
-</p>
+**Domaines d'expertise :**
+- 🐍 **Python** : Data Science, Machine Learning, automatisation
+- 🌐 **Full-Stack** : React, Node.js, bases de données
+- 📊 **Analyse de données** : Pandas, NumPy, visualisation
+- 🤖 **IA/ML** : Apprentissage supervisé, réseaux de neurones
+- 🔧 **DevOps** : Git, déploiement, intégration continue
 
 ---
 
-### 📱 Restez connecté :
-<p align="left">
-  <a href="mailto:deuxspyyy@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+## 🔬 Recherche en cours
+
+**IA appliquée à la supply chain** (été–automne 2025) :
+
+- 📈 **Prévision de la demande** et optimisation des stocks
+- 🧮 **Algorithmes d'optimisation** (heuristiques, programmation linéaire)
+- 📋 **Livrable** : Note technique + notebook Jupyter reproductible
+- 🎯 **Objectif** : Publication pour renforcer le dossier d'admission
+
+---
+
+## 📚 Recommandations & Contacts
+
+- **Encadrant ERP** : Expertise opérationnelle et gestion de projet
+- **Doctorant en IA** : Rigueur scientifique et méthodologie de recherche
+- **Professeurs Université de Lille** : Recommandations académiques
+
+---
+
+## 📑 Atouts pour l'admission
+
+- **🎯 Projet concret** : ERP développé et déployé en entreprise
+- **🔬 Recherche active** : Note technique en préparation
+- **🌏 Ouverture internationale** : Préparation TOEFL, notions de chinois
+- **💼 Expérience pratique** : Applications réelles, pas seulement théorique
+- **📈 Progression continue** : Montée en compétences constante
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2spy&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2spy&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📱 Contact
+
+<div align="center">
+  <p>
+    <strong>WeChat :</strong> wxid_sikcu4vags4h12
+  </p>
+  <p>
+    <em>Ouvert aux discussions académiques et professionnelles</em><br>
+    <em>Intéressé par les collaborations internationales</em>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <strong>🎓 Ambition :</strong> Master dans une université prestigieuse chinoise
+  </p>
+</div>
