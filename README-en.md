@@ -20,7 +20,7 @@
 ## 📝 About Me
 
 - **Status**: Bachelor's student in Computer Science — University of Lille (France)
-- **Languages & Tests**: TOEFL preparation (target ≥100) • Academic English • Basic Mandarin
+- **Languages & Tests**: TOEFL preparation (target ≥85) • Academic English
 - **WeChat**: wxid_sikcu4vags4h12
 - **Note**: Most of my contributions are not available on GitHub
 
@@ -29,7 +29,7 @@
 ## 🎯 Objectives
 
 - **Admission**: Pursue Master's in Big Data/Data Science/AI in China (Tsinghua, PKU, SJTU, ZJU)
-- **TOEFL**: Achieve score ≥100 points
+- **TOEFL**: Achieve score ≥85 points
 - **Skills**: Strengthen mathematics and machine learning foundations
 - **Publication**: Publish technical paper on AI applied to supply chain
 
@@ -95,7 +95,6 @@
 ## 📚 References & Contacts
 
 - **ERP Supervisor**: Operational expertise and project management
-- **AI PhD Student**: Scientific rigor and research methodology
 - **University of Lille Professors**: Academic recommendations
 
 ---
@@ -104,7 +103,7 @@
 
 - **🎯 Concrete Project**: ERP developed and deployed in real business environment
 - **🔬 Active Research**: Technical paper in preparation
-- **🌏 International Outlook**: TOEFL preparation, basic Chinese knowledge
+- **🌏 International Outlook**: TOEFL preparation
 - **💼 Practical Experience**: Real-world applications, not just theoretical
 - **📈 Continuous Progress**: Constant skill development and learning
 
