@@ -20,7 +20,7 @@
 ## 📝 À propos de moi
 
 - **Statut** : Étudiant L3 Informatique — Université de Lille (France)
-- **Langues & Tests** : TOEFL (préparation, cible ≥100) • Anglais académique • Notions de mandarin
+- **Langues & Tests** : TOEFL (préparation, cible ≥85) • Anglais académique
 - **WeChat** : wxid_sikcu4vags4h12
 - **Note** : La majorité de mes contributions ne sont pas disponibles sur GitHub
 
