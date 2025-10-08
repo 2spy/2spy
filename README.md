@@ -29,7 +29,7 @@
 ## 🎯 Objectifs
 
 - **Admission** : Intégrer un Master Big Data / Data Science ou Intelligence Artificielle en Chine (Tsinghua, PKU, SJTU, ZJU)
-- **TOEFL** : Atteindre un score ≥100 points
+- **TOEFL** : Atteindre un score ≥85 points
 - **Compétences** : Renforcer mes bases en mathématiques et apprentissage automatique
 - **Publication** : Publier une note technique sur l'IA appliquée à la supply chain
 
@@ -95,8 +95,6 @@
 ## 📚 Recommandations & Contacts
 
 - **Encadrant ERP** : Expertise opérationnelle et gestion de projet
-- **Doctorant en IA** : Rigueur scientifique et méthodologie de recherche
-- **Professeurs Université de Lille** : Recommandations académiques
 
 ---
 
