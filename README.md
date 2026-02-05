@@ -1,141 +1,44 @@
-<div align="center">
-  <h1>🎓 Profil Étudiant</h1>
-  
-  <!-- Sélecteur de langue -->
-  <p>
-    <a href="README.md">
-      <img src="https://img.shields.io/badge/🇫🇷-Français-0055A4?style=for-the-badge&labelColor=EF4135" alt="Français"/>
-    </a>
-    <a href="README-en.md">
-      <img src="https://img.shields.io/badge/🇺🇸-English-B22234?style=for-the-badge&labelColor=FFFFFF" alt="English"/>
-    </a>
-    <a href="README-zh.md">
-      <img src="https://img.shields.io/badge/🇨🇳-中文-DE2910?style=for-the-badge&labelColor=FFDE00" alt="中文"/>
-    </a>
-  </p>
-</div>
+# RYZYNSKI Adeyl
+
+Computer Science student (**Top 15%**) specializing in **Backend Engineering** and **Network Systems**.
+Strong interest in **concurrent systems**, **distributed architectures**, and **network protocol analysis**.
+
+I design high-performance backend tools using **Golang** and **Python**, with a focus on correctness, scalability, and low-level optimization.
 
 ---
 
-## 📝 À propos de moi
+## Technical Stack
 
-- **Statut** : Étudiant L3 Informatique — Université de Lille (France)
-- **Langues & Tests** : TOEFL (préparation, cible ≥85) • Anglais académique
-- **WeChat** : wxid_sikcu4vags4h12
-- **Note** : La majorité de mes contributions ne sont pas disponibles sur GitHub
-
----
-
-## 🎯 Objectifs
-
-- **Admission** : Intégrer un Master Big Data / Data Science ou Intelligence Artificielle en Chine (Tsinghua, PKU, SJTU, ZJU)
-- **TOEFL** : Atteindre un score ≥85 points
-- **Compétences** : Renforcer mes bases en mathématiques et apprentissage automatique
-- **Publication** : Publier une note technique sur l'IA appliquée à la supply chain
+- **Languages:** Golang, Python
+- **Backend & Networking:** HTTP/2, REST APIs, TLS Fingerprinting (JA3)
+- **Databases:** PostgreSQL, SQL
+- **Infrastructure:** Docker, Linux, Git, CI/CD
 
 ---
 
-## 💼 Projet professionnel majeur
+## Selected Projects
 
-**Développement d'un ERP complet** pour la gestion de la production et de la distribution :
+### vinted-monitor-go
+High-concurrency monitoring system written in **Go**.
 
-- ✅ **Automatisation** des processus (stocks, commandes, retours)
-- 🌐 **Interface multilingue** (français, anglais, chinois)
-- 📦 **Livraison** en conditions réelles avec documentation complète
-- 📸 **Documentation** technique avec captures d'écran
+- **Concurrency:** Designed a scalable concurrent architecture using Go routines to handle high-throughput data ingestion.
+- **Network Analysis:** Implemented advanced TLS client fingerprint emulation to study and analyze modern anti-bot detection mechanisms (simulation of browser handshakes).
+- **Performance:** Focused on latency optimization, memory efficiency, and network behavior consistency.
 
----
+**Tech:** Go, tls-client, Docker
 
-## 🛠️ Compétences techniques
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://go.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://mysql.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
-**Domaines d'expertise :**
-- 🐍 **Python** : Data Science, Machine Learning, automatisation
-- 🌐 **Full-Stack** : React, Node.js, bases de données
-- 📊 **Analyse de données** : Pandas, NumPy, visualisation
-- 🤖 **IA/ML** : Apprentissage supervisé, réseaux de neurones
-- 🔧 **DevOps** : Git, déploiement, intégration continue
+### Supply Chain Optimization
+*(In Progress)* Researching algorithmic applications for logistics and inventory management using Python.
 
 ---
 
-## 🔬 Recherche en cours
+## Engineering Interests
 
-**IA appliquée à la supply chain** (été–automne 2025) :
-
-- 📈 **Prévision de la demande** et optimisation des stocks
-- 🧮 **Algorithmes d'optimisation** (heuristiques, programmation linéaire)
-- 📋 **Livrable** : Note technique + notebook Jupyter reproductible
-- 🎯 **Objectif** : Publication pour renforcer le dossier d'admission
+- Low-level backend optimization
+- Distributed systems and concurrency models
+- Network protocol behavior and fingerprinting
+- Scalable system design in Go
 
 ---
 
-## 📚 Recommandations & Contacts
-
-- **Encadrant ERP** : Expertise opérationnelle et gestion de projet
-
----
-
-## 📑 Atouts pour l'admission
-
-- **🎯 Projet concret** : ERP développé et déployé en entreprise
-- **🔬 Recherche active** : Note technique en préparation
-- **🌏 Ouverture internationale** : Préparation TOEFL, notions de chinois
-- **💼 Expérience pratique** : Applications réelles, pas seulement théorique
-- **📈 Progression continue** : Montée en compétences constante
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2spy&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2spy&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-## 📱 Contact
-
-<div align="center">
-  <p>
-    <strong>WeChat :</strong> wxid_sikcu4vags4h12
-  </p>
-  <p>
-    <em>Ouvert aux discussions académiques et professionnelles</em><br>
-    <em>Intéressé par les collaborations internationales</em>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <p>
-    <strong>🎓 Ambition :</strong> Master dans une université prestigieuse chinoise
-  </p>
-</div>
+[📧 Email](mailto:deuxspyyy@gmail.com) 
